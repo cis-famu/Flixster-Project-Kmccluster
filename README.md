@@ -19,6 +19,9 @@ Once you've completed the required user stories for your project, take the follo
 	- We recommend [Kap](https://getkap.co/) for macOS, [ScreenToGif](https://www.screentogif.com/) for Windows, and [peek](https://github.com/phw/peek) for Linux.
 	- [Imgur](https://imgur.com/upload) is a great service for hosting the GIF walkthrough and then linking to it from the README.
 	- When using Imgur, you can right-click on the gif and choose "Copy Image Address" to get the correct address. Make sure the address has a `.gif` extension. If you end up with a url that has a `.gifv` extension, removing the `v` and changing this to `.gif` will ensure the gif renders on GitHub.
+	
+	![Kapture 2022-12-07 at 20 04 37](https://user-images.githubusercontent.com/77177362/206330947-b737978a-2b21-4ffe-ab39-0b8e8001b98c.gif)
+
 
 4. Make sure you've pushed all your latest code up to GitHub
 	- To check this, you can browse your repository on GitHub on your favorite browser to make sure some of your latest changes are present there.
